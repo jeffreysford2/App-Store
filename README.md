@@ -1,2 +1,2 @@
 # App-Store
-This is an Iphone app
+We do not store any data.
